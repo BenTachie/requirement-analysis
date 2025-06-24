@@ -153,6 +153,51 @@ Requirement Analysis is a multi-step process that transforms initial project ide
 
 > These activities are iterative and collaborative, ensuring the foundation of development is stable, scalable, and aligned with user needs.
 
+---
+---
+
+## 🧾 Types of Requirements
+
+In the context of the Booking Management System, requirements can be divided into two main categories: **Functional Requirements** and **Non-functional Requirements**. Both are essential for defining what the system should do and how it should perform.
+
+---
+
+### ⚙️ Functional Requirements
+
+Functional requirements describe the specific behaviours, functions, and features the system must perform. These define what the system should do to fulfil business and user needs.
+
+#### Examples for the Booking Management System:
+
+- Users must be able to **register and log in** to the platform.
+- Users should be able to **search for available rooms** by date, location, or category.
+- The system must allow **booking confirmation with payment integration**.
+- Admins should be able to **view, add, update, and delete bookings**.
+- Users must receive **booking confirmation via email**.
+- The system should allow customers to **view their booking history**.
+
+> Functional requirements define the *actions* or *services* the system must deliver.
+
+---
+
+### 📈 Non-functional Requirements
+
+Non-functional requirements specify the **quality attributes**, **performance constraints**, and **operational standards** the system must meet. These ensure that the functional features are usable, reliable, and scalable.
+
+#### Examples for the Booking Management System:
+
+- The platform should be **accessible on both desktop and mobile devices**.
+- The system should handle up to **1,000 concurrent users without degradation**.
+- **Booking confirmation emails** must be delivered within **10 seconds** of a successful transaction.
+- The system must be available **99.9% of the time** during business hours.
+- User data must be **encrypted and securely stored** in compliance with data protection laws.
+- The user interface must load **within 2 seconds** for 90% of users on 4G connections.
+
+> Non-functional requirements define the *quality*, *constraints*, and *standards* under which the system operates.
+
+---
+
+> *Both types of requirements are critical- functional tells us what to build, while non-functional tells us how well it must work.*
+
 
 
 
