@@ -98,6 +98,61 @@ This leads to better **project scoping**, **risk management**, and **delivery ti
 ---
 
 > “You can’t build what you don’t understand — and Requirement Analysis ensures you do.”
+---
+---
+## 🔍 Key Activities in Requirement Analysis
+
+Requirement Analysis is a multi-step process that transforms initial project ideas into a structured foundation for software design and development. Below are the five core activities that define this process:
+
+---
+
+### 1. Requirement Gathering
+
+- Collect information from stakeholders, end-users, clients, and subject matter experts
+- Understand the business context, problems, and goals
+- Identify stakeholders' needs, expectations, and pain points
+- Tools used: interviews, questionnaires, workshops, observation
+
+---
+
+### 2. Requirement Elicitation
+
+- Go beyond surface-level needs to uncover implicit and hidden requirements
+- Use techniques like brainstorming, use case development, and scenario analysis
+- Encourage stakeholder collaboration and clarify conflicting requirements
+- Ensures that needs are not just heard, but deeply understood
+
+---
+
+### 3. Requirement Documentation
+
+- Convert gathered insights into formal, structured documentation
+- Clearly distinguish between functional and non-functional requirements
+- Maintain version-controlled and traceable documentation using tools like markdown, spreadsheets, or requirement management software
+- Serves as the “source of truth” for all future development stages
+
+---
+
+### 4. Requirement Analysis and Modelling
+
+- Organise and structure requirements logically
+- Identify dependencies, constraints, and priorities
+- Use diagrams (e.g. use case diagrams, context diagrams) to model the system
+- Translate business requirements into technical understanding
+
+---
+
+### 5. Requirement Validation
+
+- Review requirements with stakeholders to ensure accuracy and completeness
+- Identify gaps, ambiguities, or conflicts
+- Verify that each requirement is testable and aligns with business objectives
+- Use acceptance criteria or formal validation checklists
+
+---
+
+> These activities are iterative and collaborative, ensuring the foundation of development is stable, scalable, and aligned with user needs.
+
 
 
 
