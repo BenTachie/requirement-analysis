@@ -38,8 +38,6 @@ This process ensures that development is aligned with business goals, user expec
 
 ---
 
-### Why It’s Important in the SDLC:
-
 Requirement Analysis plays a foundational role in the success of any software project. Here's why it’s indispensable:
 
 - 🧭 **Direction and Clarity**  
@@ -61,5 +59,45 @@ Requirement Analysis plays a foundational role in the success of any software pr
 
 > “A problem well stated is a problem half-solved.”  
 > — Charles Kettering
+---
+---
+
+## Why is Requirement Analysis Important?
+
+Requirement Analysis is not just the starting point of software development — it’s the *strategic compass* that ensures the right problem is being solved with the right solution.
+
+Below are three key detailed reasons why Requirement Analysis is vital in the Software Development Life Cycle (SDLC):
+
+---
+
+### 1️⃣ Reduces Costly Rework and Scope Creep
+
+Misunderstood or poorly documented requirements often lead to unnecessary revisions, missed features, or functionality that doesn’t align with user expectations.  
+**Clear, early analysis saves time, budget, and engineering effort.**
+
+> Studies show that fixing a requirement defect after development can cost up to 100x more than fixing it during the analysis phase.
+
+---
+
+### 2️⃣ Aligns Business Goals with Technical Execution
+
+Requirement Analysis ensures that development efforts stay focused on delivering business value.  
+By translating stakeholder goals into technical objectives, teams avoid building features that are irrelevant or redundant.
+
+>  A system that meets technical specs but fails to solve user problems is still a failed product.
+
+---
+
+### 3️⃣ Enables Accurate Planning and Prioritisation
+
+With a solid understanding of all functional and non-functional requirements, teams can estimate timeframes, allocate resources, and define realistic milestones.  
+This leads to better **project scoping**, **risk management**, and **delivery timelines**.
+
+> Good requirements = better roadmaps, sprints, and stakeholder trust.
+
+---
+
+> “You can’t build what you don’t understand — and Requirement Analysis ensures you do.”
+
 
 
