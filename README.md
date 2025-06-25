@@ -198,6 +198,31 @@ Non-functional requirements specify the **quality attributes**, **performance co
 
 > *Both types of requirements are critical- functional tells us what to build, while non-functional tells us how well it must work.*
 
+---
+---
+
+## Use Case Diagrams
+
+A **Use Case Diagram** is a visual representation of the interactions between different actors (users or systems) and the functionalities (use cases) of a system.
+
+It helps stakeholders quickly understand:
+- Who will use the system
+- What actions each user can perform
+- The system's scope and expected behaviours
+
+This form of modelling supports requirement validation and system planning by capturing functional interactions in a clear and concise way.
+
+---
+
+### 📌 Use Case Diagram for Booking Management System
+
+The diagram below illustrates the main actors and their interactions with the core functionalities of the Booking Management System:
+
+![Use Case Diagram](https://github.com/BenTachie/requirement-analysis/blob/main/diagrams/alx-booking-uc.png)
+
+> 🎭 *Actors like customers and administrators interact with use cases such as booking rooms, managing reservations, and handling user accounts.*
+
+
 
 
 
